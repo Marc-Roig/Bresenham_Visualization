@@ -6,7 +6,7 @@ Demonstration of how bresenham algorithm works. It can be found in many fields, 
 
 |  Topics  | GIF |  Summary  |
 | :------: | --- | :-------: |
-|1.<a href="https://marc-roig.github.io/Bresenham_Visualization/Bresenham2D/"> 2D Bresenham </a> | <a href="https://marc-roig.github.io/Bresenham_Visualization/Bresenham2D/"  target="_blank"> <img border="0" alt="2DBresenham" src="https://i.gyazo.com/7a73dbdd2f6c7616b270e6446b071dd9.gif" width="200" height="225"> </a> | 2D interactive Bresenham representation.|
-|2.<a href="https://marc-roig.github.io/Bresenham_Visualization/Bresenham3D/"> 3D Bresenham</a> | <a href="https://marc-roig.github.io/Bresenham_Visualization/Bresenham3D/"  target="_blank"> <img border="0" alt="3DBresenham" src="Bresenham3D/3dBresenh.gif" width="200" height="225"> </a> | 3D Bresenham representation |
+|1.<a href="https://marc-roig.github.io/Bresenham_Visualization/Bresenham2D/"> 2D Bresenham </a> | <a href="https://marc-roig.github.io/Bresenham_Visualization/Bresenham2D/"  target="_blank"> <img border="0" alt="2DBresenham" src="https://i.gyazo.com/7a73dbdd2f6c7616b270e6446b071dd9.gif" width="350" height="400"> </a> | 2D interactive Bresenham representation.|
+|2.<a href="https://marc-roig.github.io/Bresenham_Visualization/Bresenham3D/"> 3D Bresenham</a> | <a href="https://marc-roig.github.io/Bresenham_Visualization/Bresenham3D/"  target="_blank"> <img border="0" alt="3DBresenham" src="Bresenham3D/3dBresenh.gif" width="350" height="400"> </a> | 3D Bresenham representation |
 
 </center>
